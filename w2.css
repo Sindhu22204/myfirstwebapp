@@ -1,0 +1,28 @@
+*{
+    background-color: antiquewhite;
+}
+
+.heading {
+           text-align: center;
+           background-color: rgb(240, 92, 92);
+
+}
+.in{
+    text-align:right;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.welcome{
+    font-size: medium;
+    
+}
+#welcome{
+    font-size: larger;
+}
+#course{
+    font-size: larger;
+}
+#contact
+{
+    font-size: larger;
+}
